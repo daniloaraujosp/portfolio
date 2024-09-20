@@ -268,7 +268,7 @@ h6 {
 }
 
 #hero h1 {
-  margin: 0 0 10px 0;
+  margin: 0 0 10px -2.7px;
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
@@ -278,7 +278,7 @@ h6 {
 #hero p {
   color: #fff;
   margin-bottom: 50px;
-  font-size: 26px;
+  font-size: 21px;
   font-family: "Poppins", sans-serif;
 }
 
@@ -297,7 +297,7 @@ h6 {
 
 @media (max-width: 768px) {
   #hero h1 {
-    font-size: 28px;
+    font-size: 35px;
     line-height: 36px;
   }
 
@@ -490,6 +490,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
+  margin-left: 8px;
   border-left: 2px solid #1f5297;
   position: relative;
 }
