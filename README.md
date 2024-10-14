@@ -10,3 +10,6 @@ Desenvolvimento de site para portfólio pessoal. Alterações realizadas com HTM
 
 > Acesse o site: <br>
 > https://www.daniloaraujo.dev.br/ 
+
+
+![image](https://github.com/user-attachments/assets/e85a186d-5d37-4174-ad6d-bf01ad20fb34)
